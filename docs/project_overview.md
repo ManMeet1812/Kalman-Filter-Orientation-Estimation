@@ -82,7 +82,7 @@ Both methods output results in **CSV-style format** to support analysis and visu
 - `roll_deg`
 - `pitch_deg`
 - `yaw_deg`
-- `compute_us` :contentReference[oaicite:8]{index=8}
+- `compute_us` 
 
 ## Python Analysis and Visualization
 This project also includes Python scripts used to:
